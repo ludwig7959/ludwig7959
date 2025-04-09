@@ -3,4 +3,5 @@
 ## Language
 - Java (2016)
 - Python (2021)
+- C++ (2021)
 - Rust (2025)
